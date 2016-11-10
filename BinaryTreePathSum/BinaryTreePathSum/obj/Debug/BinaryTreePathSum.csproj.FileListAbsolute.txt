@@ -1,0 +1,6 @@
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\BinaryTreePathSum\BinaryTreePathSum\bin\Debug\BinaryTreePathSum.exe.config
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\BinaryTreePathSum\BinaryTreePathSum\bin\Debug\BinaryTreePathSum.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\BinaryTreePathSum\BinaryTreePathSum\bin\Debug\BinaryTreePathSum.pdb
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\BinaryTreePathSum\BinaryTreePathSum\obj\Debug\BinaryTreePathSum.csprojResolveAssemblyReference.cache
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\BinaryTreePathSum\BinaryTreePathSum\obj\Debug\BinaryTreePathSum.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\BinaryTreePathSum\BinaryTreePathSum\obj\Debug\BinaryTreePathSum.pdb

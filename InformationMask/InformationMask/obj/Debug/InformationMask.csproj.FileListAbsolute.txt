@@ -1,0 +1,6 @@
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\InformationMask\InformationMask\bin\Debug\InformationMask.exe.config
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\InformationMask\InformationMask\bin\Debug\InformationMask.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\InformationMask\InformationMask\bin\Debug\InformationMask.pdb
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\InformationMask\InformationMask\obj\Debug\InformationMask.csprojResolveAssemblyReference.cache
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\InformationMask\InformationMask\obj\Debug\InformationMask.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\InformationMask\InformationMask\obj\Debug\InformationMask.pdb

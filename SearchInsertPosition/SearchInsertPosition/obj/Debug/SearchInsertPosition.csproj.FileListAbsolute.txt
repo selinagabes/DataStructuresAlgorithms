@@ -1,0 +1,6 @@
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\SearchInsertPosition\SearchInsertPosition\bin\Debug\SearchInsertPosition.exe.config
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\SearchInsertPosition\SearchInsertPosition\bin\Debug\SearchInsertPosition.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\SearchInsertPosition\SearchInsertPosition\bin\Debug\SearchInsertPosition.pdb
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\SearchInsertPosition\SearchInsertPosition\obj\Debug\SearchInsertPosition.csprojResolveAssemblyReference.cache
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\SearchInsertPosition\SearchInsertPosition\obj\Debug\SearchInsertPosition.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\SearchInsertPosition\SearchInsertPosition\obj\Debug\SearchInsertPosition.pdb

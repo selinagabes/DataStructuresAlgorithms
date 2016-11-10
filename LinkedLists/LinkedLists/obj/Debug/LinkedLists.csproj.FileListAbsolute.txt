@@ -1,0 +1,6 @@
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe.config
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\LinkedLists\LinkedLists\obj\Debug\LinkedLists.csprojResolveAssemblyReference.cache
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\LinkedLists\LinkedLists\bin\Debug\LinkedLists.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\LinkedLists\LinkedLists\bin\Debug\LinkedLists.pdb
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\LinkedLists\LinkedLists\obj\Debug\LinkedLists.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\LinkedLists\LinkedLists\obj\Debug\LinkedLists.pdb

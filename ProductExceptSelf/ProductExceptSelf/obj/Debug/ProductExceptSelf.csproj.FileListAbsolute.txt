@@ -1,0 +1,5 @@
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\ProductExceptSelf\ProductExceptSelf\bin\Debug\ProductExceptSelf.exe.config
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\ProductExceptSelf\ProductExceptSelf\bin\Debug\ProductExceptSelf.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\ProductExceptSelf\ProductExceptSelf\bin\Debug\ProductExceptSelf.pdb
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\ProductExceptSelf\ProductExceptSelf\obj\Debug\ProductExceptSelf.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\ProductExceptSelf\ProductExceptSelf\obj\Debug\ProductExceptSelf.pdb

@@ -1,0 +1,6 @@
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\IsPalindrom\IsPalindrom\bin\Debug\IsPalindrom.exe.config
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\IsPalindrom\IsPalindrom\bin\Debug\IsPalindrom.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\IsPalindrom\IsPalindrom\bin\Debug\IsPalindrom.pdb
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\IsPalindrom\IsPalindrom\obj\Debug\IsPalindrom.csprojResolveAssemblyReference.cache
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\IsPalindrom\IsPalindrom\obj\Debug\IsPalindrom.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\IsPalindrom\IsPalindrom\obj\Debug\IsPalindrom.pdb

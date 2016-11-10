@@ -1,0 +1,6 @@
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\MissingStrings\MissingStrings\bin\Debug\MissingStrings.exe.config
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\MissingStrings\MissingStrings\bin\Debug\MissingStrings.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\MissingStrings\MissingStrings\bin\Debug\MissingStrings.pdb
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\MissingStrings\MissingStrings\obj\Debug\MissingStrings.csprojResolveAssemblyReference.cache
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\MissingStrings\MissingStrings\obj\Debug\MissingStrings.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\MissingStrings\MissingStrings\obj\Debug\MissingStrings.pdb

@@ -1,0 +1,6 @@
+c:\users\selinagabes\documents\visual studio 2015\Projects\DecodeWays\DecodeWays\bin\Debug\DecodeWays.exe.config
+c:\users\selinagabes\documents\visual studio 2015\Projects\DecodeWays\DecodeWays\bin\Debug\DecodeWays.exe
+c:\users\selinagabes\documents\visual studio 2015\Projects\DecodeWays\DecodeWays\bin\Debug\DecodeWays.pdb
+c:\users\selinagabes\documents\visual studio 2015\Projects\DecodeWays\DecodeWays\obj\Debug\DecodeWays.csprojResolveAssemblyReference.cache
+c:\users\selinagabes\documents\visual studio 2015\Projects\DecodeWays\DecodeWays\obj\Debug\DecodeWays.exe
+c:\users\selinagabes\documents\visual studio 2015\Projects\DecodeWays\DecodeWays\obj\Debug\DecodeWays.pdb

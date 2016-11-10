@@ -1,0 +1,6 @@
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\ValidateBST\ValidateBST\bin\Debug\ValidateBST.exe.config
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\ValidateBST\ValidateBST\bin\Debug\ValidateBST.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\ValidateBST\ValidateBST\bin\Debug\ValidateBST.pdb
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\ValidateBST\ValidateBST\obj\Debug\ValidateBST.csprojResolveAssemblyReference.cache
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\ValidateBST\ValidateBST\obj\Debug\ValidateBST.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\ValidateBST\ValidateBST\obj\Debug\ValidateBST.pdb

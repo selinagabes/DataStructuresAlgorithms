@@ -1,0 +1,6 @@
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\HammingWeight\HammingWeight\bin\Debug\HammingWeight.exe.config
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\HammingWeight\HammingWeight\bin\Debug\HammingWeight.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\HammingWeight\HammingWeight\bin\Debug\HammingWeight.pdb
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\HammingWeight\HammingWeight\obj\Debug\HammingWeight.csprojResolveAssemblyReference.cache
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\HammingWeight\HammingWeight\obj\Debug\HammingWeight.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\HammingWeight\HammingWeight\obj\Debug\HammingWeight.pdb
