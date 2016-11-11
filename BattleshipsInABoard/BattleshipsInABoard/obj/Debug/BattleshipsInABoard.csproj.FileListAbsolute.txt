@@ -1,1 +1,7 @@
 C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\BattleshipsInABoard\BattleshipsInABoard\bin\Debug\BattleshipsInABoard.exe.config
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\DSAlgorithms\BattleshipsInABoard\BattleshipsInABoard\bin\Debug\BattleshipsInABoard.exe.config
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\DSAlgorithms\BattleshipsInABoard\BattleshipsInABoard\bin\Debug\BattleshipsInABoard.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\DSAlgorithms\BattleshipsInABoard\BattleshipsInABoard\bin\Debug\BattleshipsInABoard.pdb
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\DSAlgorithms\BattleshipsInABoard\BattleshipsInABoard\obj\Debug\BattleshipsInABoard.csprojResolveAssemblyReference.cache
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\DSAlgorithms\BattleshipsInABoard\BattleshipsInABoard\obj\Debug\BattleshipsInABoard.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\DSAlgorithms\BattleshipsInABoard\BattleshipsInABoard\obj\Debug\BattleshipsInABoard.pdb
