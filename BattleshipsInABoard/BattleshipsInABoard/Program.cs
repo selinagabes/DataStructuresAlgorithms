@@ -17,11 +17,9 @@ namespace BattleshipsInABoard
                            { '.', '.', '.', 'x' },
                            { '.', '.', '.', 'x' }
                         };
-
-            string[] BS = ["X..X".ToCharArray(), "...X".ToCharArray(), "...X".ToCharArray()];
-            char[,] bs = BS.ToArray();
+            
             Solution solution = new Solution();
-            int count = solution.CountBattleships(bs);
+            int count = solution.CountBattleships(bS);
             Console.WriteLine(count);
             Console.ReadLine();
         }
