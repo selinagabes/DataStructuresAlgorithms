@@ -1,1 +1,2 @@
 C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\Graph\Graph\bin\Debug\Graph.exe.config
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\DSAlgorithms\Graph\Graph\bin\Debug\Graph.exe.config
