@@ -1,0 +1,6 @@
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\DeepCopyListRandomPointer\DeepCopyListRandomPointer\bin\Debug\DeepCopyListRandomPointer.exe.config
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\DeepCopyListRandomPointer\DeepCopyListRandomPointer\bin\Debug\DeepCopyListRandomPointer.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\DeepCopyListRandomPointer\DeepCopyListRandomPointer\bin\Debug\DeepCopyListRandomPointer.pdb
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\DeepCopyListRandomPointer\DeepCopyListRandomPointer\obj\Debug\DeepCopyListRandomPointer.csprojResolveAssemblyReference.cache
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\DeepCopyListRandomPointer\DeepCopyListRandomPointer\obj\Debug\DeepCopyListRandomPointer.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\DeepCopyListRandomPointer\DeepCopyListRandomPointer\obj\Debug\DeepCopyListRandomPointer.pdb

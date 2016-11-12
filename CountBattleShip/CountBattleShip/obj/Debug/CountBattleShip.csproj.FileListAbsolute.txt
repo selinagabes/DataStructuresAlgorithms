@@ -1,0 +1,6 @@
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\CountBattleShip\CountBattleShip\bin\Debug\CountBattleShip.exe.config
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\CountBattleShip\CountBattleShip\bin\Debug\CountBattleShip.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\CountBattleShip\CountBattleShip\bin\Debug\CountBattleShip.pdb
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\CountBattleShip\CountBattleShip\obj\Debug\CountBattleShip.csprojResolveAssemblyReference.cache
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\CountBattleShip\CountBattleShip\obj\Debug\CountBattleShip.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\CountBattleShip\CountBattleShip\obj\Debug\CountBattleShip.pdb

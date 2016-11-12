@@ -1,0 +1,6 @@
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\RansomNote\RansomNote\bin\Debug\RansomNote.exe.config
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\RansomNote\RansomNote\bin\Debug\RansomNote.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\RansomNote\RansomNote\bin\Debug\RansomNote.pdb
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\RansomNote\RansomNote\obj\Debug\RansomNote.csprojResolveAssemblyReference.cache
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\RansomNote\RansomNote\obj\Debug\RansomNote.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\RansomNote\RansomNote\obj\Debug\RansomNote.pdb

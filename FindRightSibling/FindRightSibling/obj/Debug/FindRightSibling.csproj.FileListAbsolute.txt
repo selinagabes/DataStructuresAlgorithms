@@ -1,0 +1,6 @@
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\FindRightSibling\FindRightSibling\bin\Debug\FindRightSibling.exe.config
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\FindRightSibling\FindRightSibling\bin\Debug\FindRightSibling.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\FindRightSibling\FindRightSibling\bin\Debug\FindRightSibling.pdb
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\FindRightSibling\FindRightSibling\obj\Debug\FindRightSibling.csprojResolveAssemblyReference.cache
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\FindRightSibling\FindRightSibling\obj\Debug\FindRightSibling.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\FindRightSibling\FindRightSibling\obj\Debug\FindRightSibling.pdb
