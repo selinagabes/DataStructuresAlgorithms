@@ -4,3 +4,6 @@ C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\ExcelSheetColumnNumbe
 C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\ExcelSheetColumnNumber\ExcelSheetColumnNumber\bin\Debug\ExcelSheetColumnNumber.pdb
 C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\ExcelSheetColumnNumber\ExcelSheetColumnNumber\obj\Debug\ExcelSheetColumnNumber.exe
 C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\ExcelSheetColumnNumber\ExcelSheetColumnNumber\obj\Debug\ExcelSheetColumnNumber.pdb
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\DSAlgorithms\ExcelSheetColumnNumber\ExcelSheetColumnNumber\bin\Debug\ExcelSheetColumnNumber.exe.config
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\DSAlgorithms\ExcelSheetColumnNumber\ExcelSheetColumnNumber\obj\Debug\ExcelSheetColumnNumber.exe
+C:\Users\selinagabes\Documents\Visual Studio 2015\Projects\DSAlgorithms\ExcelSheetColumnNumber\ExcelSheetColumnNumber\obj\Debug\ExcelSheetColumnNumber.pdb
