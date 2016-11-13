@@ -11,8 +11,9 @@ namespace IntegerToEnglishWord
         static void Main(string[] args)
         {
             Solution soln = new Solution();
-            int test = 2147483647;
+            int test = 100;
             string testWord = soln.NumberToWords(test);
+            Console.WriteLine(testWord);
             Console.Read();
         }
     }
@@ -22,42 +23,65 @@ namespace IntegerToEnglishWord
         // max 2 147 483 647
         public string NumberToWords(int num)
         {
+            if (num == 0) return "Zero";
             Dictionary<int, string> intToWord = GetDictionary();
+            if (intToWord.ContainsKey(num))
+            {
+                if (num > 10 && num % 100 == 0)
+                    return "One " + intToWord[num];
+                else
+                    return intToWord[num];
+            }
             int numToWord = num;
-            int digCount = 0;
+
             int currentDig;
             List<string> returnStrings = new List<string>();
-            while (numToWord > 0)
+           
+            for (int i = 1; i <= 4; i++)
             {
-                
-                digCount++;
-                currentDig = numToWord % (int)Math.Pow(10, digCount==3?digCount-2:digCount);
-                returnStrings.Add(intToWord[currentDig]);
-                numToWord -= currentDig;
-                if (digCount == 2)
+                if (numToWord > 0)//100 blocks
                 {
-                    returnStrings.Add(intToWord[100]);
-                    numToWord /= 100;
-                }if(digCount == 3)
-                {
-                    if(returnStrings.Count < 5)
-                        returnStrings.Add(intToWord[1000]);
-                    else if (5 < returnStrings.Count && returnStrings.Count < 10)
-                        returnStrings.Add(intToWord[1000000]);
-                    if (10 < returnStrings.Count && returnStrings.Count < 15)
-                        returnStrings.Add(intToWord[1000000000]);
-                    numToWord /= 10;
-                    digCount = 0;
+
+                    currentDig = numToWord % 100;
+                    if (currentDig != 0)
+                    {
+                        if (currentDig < 20)
+                        {
+                            returnStrings.Add(intToWord[currentDig]);
+
+                        }
+                        else
+                        {
+                            returnStrings.Add(intToWord[currentDig % 10]);
+                            returnStrings.Add(intToWord[currentDig - (currentDig % 10)]);
+
+                        }
+                    }
+                    numToWord -= currentDig;
+                    if (numToWord > 0)
+                    {
+                        returnStrings.Add(intToWord[100]);
+                        numToWord /= 100;
+                        currentDig = numToWord % 10;
+                        returnStrings.Add(intToWord[currentDig]);
+                        numToWord -= currentDig;
+                        numToWord /= 10;
+                    }
+
                 }
+                if (numToWord <= 0)
+                    break;
+                returnStrings.Add(intToWord[(int)Math.Pow(10, (i * 3))]);
 
             }
+
             string result = "";
-            foreach(string s in returnStrings)
+            foreach (string s in returnStrings)
             {
-                result = s +" "+ result; 
+                result = s + " " + result;
             }
 
-            return result;
+            return result.Trim();
         }
 
         public Dictionary<int, string> GetDictionary()
@@ -67,17 +91,15 @@ namespace IntegerToEnglishWord
             prefixes.Add(2, "Twe");
             prefixes.Add(3, "Thir");
             prefixes.Add(5, "Fif");
+            prefixes.Add(4, "For");
             prefixes.Add(8, "Eigh");
             Dictionary<int, string> postfixes = new Dictionary<int, string>();
             postfixes.Add(1, "teen");
             postfixes.Add(10, "ty");
 
-            Dictionary<int, string> quantifiers = new Dictionary<int, string>();
-            quantifiers.Add(100, "Hundred");
-            quantifiers.Add(1000, "Thousand");
-            quantifiers.Add(1000000, "Million");
 
             Dictionary<int, string> intToWord = new Dictionary<int, string>();
+            intToWord.Add(0, "");
             intToWord.Add(1, "One");
             intToWord.Add(2, "Two");
             intToWord.Add(3, "Three");
@@ -99,7 +121,7 @@ namespace IntegerToEnglishWord
             intToWord.Add(19, intToWord[9] + postfixes[1]);
             intToWord.Add(20, prefixes[2] + "n" + postfixes[10]);
             intToWord.Add(30, prefixes[3] + postfixes[10]);
-            intToWord.Add(40, intToWord[4] + postfixes[10]);
+            intToWord.Add(40, prefixes[4] + postfixes[10]);
             intToWord.Add(50, prefixes[5] + postfixes[10]);
             intToWord.Add(60, intToWord[6] + postfixes[10]);
             intToWord.Add(70, intToWord[7] + postfixes[10]);
